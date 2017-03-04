@@ -1,0 +1,3 @@
+select * from zdevicemap;
+
+delete from zdevicemap;
